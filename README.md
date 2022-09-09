@@ -1,0 +1,2 @@
+# Japan
+Japan landing page
