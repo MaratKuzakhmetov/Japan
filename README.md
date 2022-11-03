@@ -2,9 +2,9 @@
 
 A Japan landing page built using layout from Figma.
 
-Check out the Page [HERE](https://star-wars-seven-pi.vercel.app/)!
+Check out the Page [HERE](https://japan-landing.vercel.app/)!
 
-![Screenshot](ReadmeImages/Laptop__Main-Page.png)
+![Screenshot](ReadmeImages/MainPage.png)
 
 ## Summary
 
@@ -12,7 +12,7 @@ I built this landing page to work with Figma layout.
 
 Some screenshots to show how app displays on mobile devices:
 
-![Screenshot](ReadmeImages/Phone.png)
+![Screenshot](ReadmeImages/Mobile__pages.png)
 
 And on laptop.
 
